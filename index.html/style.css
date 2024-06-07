@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+nav, a{
+    background-color: darkblue;
+    color: white;
+
+}
+.listanav{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+a{
+    position: relative;
+    bottom: 10vh;
+    margin-left: 30px;
+}
+img{
+    margin-left: ;
+}
